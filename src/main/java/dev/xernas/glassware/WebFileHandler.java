@@ -1,4 +1,4 @@
-package dev.xernas;
+package dev.xernas.glassware;
 
 import dev.xernas.lithium.io.headers.ContentType;
 import dev.xernas.lithium.io.headers.Header;
@@ -9,7 +9,6 @@ import dev.xernas.lithium.plugin.commands.Command;
 import dev.xernas.lithium.plugin.commands.CommandManager;
 import dev.xernas.lithium.plugin.routes.RouteHandler;
 import dev.xernas.lithium.request.Request;
-import dev.xernas.lithium.response.HTMLResponse;
 import dev.xernas.lithium.response.Response;
 
 import java.io.IOException;

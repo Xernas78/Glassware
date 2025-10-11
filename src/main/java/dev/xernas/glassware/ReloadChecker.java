@@ -1,4 +1,4 @@
-package dev.xernas;
+package dev.xernas.glassware;
 
 import dev.xernas.lithium.plugin.listeners.Listener;
 import dev.xernas.lithium.request.Request;

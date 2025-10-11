@@ -21,7 +21,7 @@
                 <configuration>
                     <archive>
                         <manifest>
-                            <mainClass>dev.xernas.Glassware</mainClass>
+                            <mainClass>dev.xernas.glassware.Glassware</mainClass>
                         </manifest>
                     </archive>
                     <descriptorRefs>

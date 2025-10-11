@@ -1,4 +1,4 @@
-package dev.xernas;
+package dev.xernas.glassware;
 
 public class HTMLUtils {
 

@@ -1,4 +1,4 @@
-package dev.xernas;
+package dev.xernas.glassware;
 
 import dev.xernas.atom.file.FileUtils;
 import dev.xernas.atom.resource.ResourceUtils;

@@ -1,11 +1,10 @@
-package dev.xernas;
+package dev.xernas.glassware;
 
 import dev.xernas.atom.file.FileUtils;
 import dev.xernas.atom.resource.ResourceUtils;
 import dev.xernas.lithium.io.headers.ContentType;
 
 import java.io.IOException;
-import java.nio.charset.StandardCharsets;
 import java.nio.file.Path;
 
 public class WebFile {
