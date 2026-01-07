@@ -44,12 +44,12 @@
     <dependencies>
         <dependency>
             <groupId>dev.xernas</groupId>
-            <artifactId>Atom</artifactId>
+            <artifactId>Lithium</artifactId>
             <version>1.0.0</version>
         </dependency>
         <dependency>
             <groupId>dev.xernas</groupId>
-            <artifactId>Lithium</artifactId>
+            <artifactId>Microscope</artifactId>
             <version>1.0.0</version>
         </dependency>
     </dependencies>

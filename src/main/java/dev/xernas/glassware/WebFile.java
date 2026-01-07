@@ -1,8 +1,8 @@
 package dev.xernas.glassware;
 
 import dev.xernas.atom.file.FileUtils;
-import dev.xernas.atom.resource.ResourceUtils;
 import dev.xernas.lithium.io.headers.ContentType;
+import dev.xernas.microscope.helper.PathHelper;
 
 import java.io.IOException;
 import java.nio.file.Path;
@@ -31,7 +31,7 @@ public class WebFile {
     }
 
     public void read(Path path) throws IOException {
-        content = ResourceUtils.getResourceBytes(path);
+        content = PathHelper.getBytesOf(path);
     }
 
     public static ContentType getContentType(String fileName) {
